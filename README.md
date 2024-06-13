@@ -1,7 +1,8 @@
-# heejin_space
-Heejin github
-<!--타이틀 부분-->
+# heejin_space 🪐
 
+Heejin github
+
+<!--타이틀 부분-->
 
 <!--내용 부분-->
 <h3 align="center">⚙️ Tech Stack 🔧 </h3>
@@ -11,10 +12,7 @@ Heejin github
   <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
 </div>
 
-
 <br>
-
-
 
 <br>
 
