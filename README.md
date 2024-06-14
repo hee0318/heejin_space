@@ -1,4 +1,4 @@
-# 🪐 heejin_space 🪐🪐
+# 🪐 heejin_space 🪐
 
 Heejin github
 
