@@ -5,7 +5,7 @@ Heejin github
 <!--타이틀 부분-->
 
 <!--내용 부분-->
-<h3 align="center">⚙️ Tech Stack 🔧 </h3>
+<h3 align="center">🔧 Tech Stack 🔧 </h3>
 <div align="center">
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
@@ -29,8 +29,14 @@ Heejin github
 
 <br>
 
-<h3 align="center">📚 Studying 📚</h3>
+<h3 align="center">⚙️ database ⚙️ </h3>
 <div align="center">
+  <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp
+
+  
+</div>
  
 </div>
 
