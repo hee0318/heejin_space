@@ -1,6 +1,7 @@
 # 🪐 heejin_space 🪐
-
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20HEEJIN's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
+<div align="center">
+  
 ## Hi , there ! 🤙
 
 ### 🌤️ Weather ccheck 사이트 만들기 : [React]([https://github.com/](https://main--practiceproject-weater-app.netlify.app/))
@@ -35,6 +36,8 @@ NEXT.js를 이용한 포트폴리오 사이트 만들기입니다.
 
 ### 📚 다양한 효과 적용 및 블로그 만들기 : [PHP , GSAP](http://hee031812.dothome.co.kr/)
 php와 gsap를 사용하여 다양한 효과를 적용하여 만든 사이트들입니다.
+</div>
+
 
 <!--타이틀 부분-->
 
