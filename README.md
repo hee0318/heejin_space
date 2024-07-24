@@ -5,7 +5,7 @@
   
 ## Hi , there ! welcom to heejin_space 🪐 🤙
 
-### 🌤️ Weather ccheck 사이트 만들기 : [React]([https://github.com/](https://main--practiceproject-weater-app.netlify.app/))
+### 🌤️ Weather ccheck 사이트 만들기 : [React](https://github.com/](https://main--practiceproject-weater-app.netlify.app/))
 날씨 api를 사용하여 간단한 날씨 확인 페이지를 만들어 봤습니다.
 
 ### 🗑 RECYCLING 사이트 만들기 : [PHP](https://github.com/hee031812/recycle-project)
