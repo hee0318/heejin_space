@@ -6,6 +6,35 @@
 ### 🌤️ Weather ccheck 사이트 만들기 : [React]([https://github.com/](https://main--practiceproject-weater-app.netlify.app/))
 날씨 api를 사용하여 간단한 날씨 확인 페이지를 만들어 봤습니다.
 
+### 🗑 RECYCLING 사이트 만들기 : [PHP](https://github.com/hee031812/recycle-project)
+PHP 를 이용하여 올바른 분리수거 방법을 알려주는 사이트를 만들었습니다.
+
+### 🥰 나만의 유튜브 사이트 만들기 : [REACT.JS](https://github.com/hee031812/youtube-project)
+리액트를 이용하여 나만의 여행 유튜브 사이트 만들기 입니다.
+
+### 🤗 나만의 영화 사이트 만들기 : [VITE](https://github.com/hee031812/movie-project)
+VITE 를 이용하여 나만의 영화 사이트를 만들었습니다.
+
+### 💻 퀴즈게임 만들기 : [JAVASCRIPT](https://github.com/hee031812/uquiz)
+javascript를 이용하여 인물 퀴즈게임을 만들었습니다.
+
+### 📚 자격증 시험 퀴즈 : [JAVASCRIPT](https://github.com/hee031812/javascript.quiz)
+javascript를 이용하여 자격증 퀴즈를 만들었습니다.
+
+### 🦕 포트폴리오 사이트 만들기 : [VITE](https://github.com/hee031812/vite-project.git)
+vite를 이용한 포트폴리오 사이트 만들기 입니다.
+
+### 🐑 포트폴리오 사이트 만들기 : [REACT.JS](https://github.com/hee031812/react-project.git)
+React.js를 이용한 포트폴리오 사이트 만들기입니다.
+
+### 🐪 포트폴리오 사이트 만들기 : [VUE.JS](https://github.com/hee031812/vue-project.git)
+VUE.js를 이용한 포트폴리오 사이트 만들기입니다.
+
+### 🐒 포트폴리오 사이트 만들기 : [NEXT.JS](https://github.com/hee031812/next-project.git)
+NEXT.js를 이용한 포트폴리오 사이트 만들기입니다.
+
+### 📚 다양한 효과 적용 및 블로그 만들기 : [PHP , GSAP](http://hee031812.dothome.co.kr/)
+php와 gsap를 사용하여 다양한 효과를 적용하여 만든 사이트들입니다.
 
 <!--타이틀 부분-->
 
