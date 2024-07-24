@@ -1,6 +1,11 @@
 # 🪐 heejin_space 🪐
 
-Heejin github
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20HEEJIN's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
+## Hi , there ! 🤙
+
+### 🌤️ Weather ccheck 사이트 만들기 : [React]([https://github.com/](https://main--practiceproject-weater-app.netlify.app/))
+날씨 api를 사용하여 간단한 날씨 확인 페이지를 만들어 봤습니다.
+
 
 <!--타이틀 부분-->
 
