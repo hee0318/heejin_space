@@ -103,9 +103,6 @@ php와 gsap를 사용하여 다양한 효과를 적용하여 만든 사이트들
 
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
-  <a href="https://velog.io/@oka1313">
-    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
-  </a>
   <a href="mailto:oka1313@gmail.com">
     <img
       src="https://img.shields.io/badge/hee031812@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
